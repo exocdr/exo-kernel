@@ -1,0 +1,19 @@
+{
+    "name": "exocdr/exo-kernel",
+    "description": "Exocoder : kernel",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jeroen Keppens",
+            "email": "jeroen@exocoder.io"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Exo\\Kernel\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}

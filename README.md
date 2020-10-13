@@ -1,2 +1,3 @@
-# exo-kernel
-Exocode Project : Kernel
+# Exocoder : Kernel
+
+Kernel classes for exocoder project
